@@ -13,7 +13,7 @@ THIS IS A NEWLY DEVELOPED BOT AND STILL MIGHT HAVE BUGS THAT ARE UNKNOWN
 
 COMMANDS: PREFIX (!)
 
-MODERATION
+**MODERATION**
 
 !modhelp - LIST OF MODERATION COMMANDS
 
@@ -27,10 +27,10 @@ LOCKDOWN !lock - locks current channel so noone can speak !unlock - unlocks curr
 
 PURGE !purge - delete the number of given messages
 
-OTHER COMMANDS
+**OTHER COMMANDS**
 
 !say - make the bot say an embed message !ping - checks how responsive the bot is !botinfo - some information about the bot !serverinfo - some general info about the bot !inviteme - get the invite link for the bot !meme - something
 
-BOT BY Hamza#5938
+**BOT BY Hamza#5938**
 
-IF YOU FIND ANY BUGS PLEASE DM ME AND I WILL FIX THEM ASAP
+_IF YOU FIND ANY BUGS PLEASE DM ME AND I WILL FIX THEM ASAP_
