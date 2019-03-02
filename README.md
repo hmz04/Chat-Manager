@@ -6,31 +6,41 @@
 		alt="Chat Manager on Discord Bot List">
 </a>
 
+Chat Manager 
+======================== 
 
-**CHAT MANAGER**
+![alt text](https://cdn.discordapp.com/attachments/538423535169962014/551414712667996191/b126d17acb5a1b43f6012dd190a88c06.png "Chat Manger")
 
-THIS IS A NEWLY DEVELOPED BOT AND STILL MIGHT HAVE BUGS THAT ARE UNKNOWN
 
-COMMANDS: PREFIX (!)
 
-**MODERATION**
 
-!modhelp - LIST OF MODERATION COMMANDS
+[ChatManager](https://discordapp.com/oauth2/authorize?client_id=551152674507063326&scope=bot&permissions=8) is a simple bot with multiple purposes such as moderation and broadcasts. This bot is specially made for people who don't like discord bots that have too many useless commands.
 
-SETUP COMMANDS !mutesetup !bansetup
+Commands
+-------------------
+### Prefix (!)
+ 
+### Start - !setup
 
-MUTE !mute !unmute
+#### Moderation:
+##### !help mod - List all moderation commands.
+##### !ban - Add the "Banned" Role to user, this doesn't effect your member count but the user can not access any channels.
+##### !unban - Remove the "Banned" Role from the user and let them access your server again.
+##### !hardban - Bans the user from your server so they can never join again (unban manually).
+##### !mute - Add the "Muted" Role to user and prevent them from sending messages on your server.
+##### !unmute - Remove the "Muted" Role from the user and allow them to speak again.
+##### !lockdown <on/off> - Lock the current chat so normal users can not send messages.
+##### !purge - Remove a specific amount of messages from current chat.
 
-BAN - adds banned role to user so no channels can be accessed !ban !unban !hardban - bans user from server (unban manually)
+#### Extra:
+##### !say {colour} {message} - Make the bot send a professional looking message.
+##### !colours - List all the colours for the !say command.
+##### !botinfo - Check information about this bot.
+##### !serverinfo - List some information about this server.
 
-LOCKDOWN !lock - locks current channel so noone can speak !unlock - unlocks current channel
 
-PURGE !purge - delete the number of given messages
 
-**OTHER COMMANDS**
 
-!say - make the bot say an embed message !ping - checks how responsive the bot is !botinfo - some information about the bot !serverinfo - some general info about the bot !inviteme - get the invite link for the bot !meme - something
+BOT BY Hamza#5619
 
-**BOT BY Hamza#5938**
-
-_IF YOU FIND ANY BUGS PLEASE DM ME AND I WILL FIX THEM ASAP_
+IF YOU FIND ANY BUGS PLEASE DM ME AND I WILL FIX THEM ASAP
