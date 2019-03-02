@@ -1,9 +1,9 @@
-<a href="https://discordbotlist.com/bots/511604338292949014">
-    <img 
-        width="380" 
-        height="140" 
-        src="https://discordbotlist.com/bots/511604338292949014/widget" 
-        alt="Lithium stats on Discord Bot List">
+<a href="https://discordbotlist.com/bots/460847447602757633">
+	<img 
+		width="380" 
+		height="140" 
+		src="https://discordbotlist.com/bots/460847447602757633/widget" 
+		alt="Lithium stats on Discord Bot List">
 </a>
 
 
