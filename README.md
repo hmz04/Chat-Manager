@@ -1,4 +1,4 @@
-<a href="https://discordbotlist.com/bots/460847447602757633">
+<a href="https://discordbotlist.com/bots/551152674507063326">
 	<img 
 		width="380" 
 		height="140" 
