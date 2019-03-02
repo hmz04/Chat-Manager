@@ -2,8 +2,8 @@
 	<img 
 		width="380" 
 		height="140" 
-		src="https://discordbotlist.com/bots/460847447602757633/widget" 
-		alt="Lithium stats on Discord Bot List">
+		src="https://discordbotlist.com/bots/551152674507063326/widget" 
+		alt="Chat Manager on Discord Bot List">
 </a>
 
 
